@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🚀, I'm Edin</h1>
+<h1 align="center">🚀 Hi, I'm Edin 🚀</h1>
 <h3 align="center"> Software Engineer, Data Scientist and MBA</h3>
 
 <img align="right" alt="Coding" width="230" src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif">

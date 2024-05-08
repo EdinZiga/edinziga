@@ -12,7 +12,7 @@
 
 - 📫 Want to reach out or know about my experiences? Send me a DM: [https://www.linkedin.com/in/edinziga/](https://www.linkedin.com/in/edinziga/)
 
-- 🚀 <b>Fun fact:</b> The amount of rockets you put in a post is inveresly correlated to the probability of your investment turning a profit. So: 🚀🚀🚀🚀
+- 🚀 <b>Fun fact:</b> The number of rockets you put in a post is inveresly correlated to the probability of your investment being profit. So: 🚀🚀🚀🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

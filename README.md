@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Edin 🚀</h1>
-<h3 align="center"> Software Engineer, Data Scientist and MBA</h3>
+<h3 align="center"> Software Engineer, Data Scientist and Part-time Wizard</h3>
 
 <img align="right" alt="Coding" width="230" src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkxscar&label=Profile%20views&color=0e75b6&style=flat" alt="darkxscar" /> </p>
